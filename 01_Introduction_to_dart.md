@@ -50,6 +50,14 @@ deployment, you should use dart2js. Using special tools like webdev 6
 there’s the possibility
 to edit Dart files, refreshing Chrome and visualizing changes almost immediately
 
-As you’ve just seen, Dart can run literally everywhere: desktop, mobile and web. This book will
-give you a wide overview of the language (Dart version 2.10, with null safety support) and all the
-required skills to create easily maintainable projects.
+As you’ve just seen, Dart can run literally everywhere: desktop, mobile and web.
+
+### **PACKAGE SYSTEM**
+Dart’s core API offers different packages, such as dart:io or dart:collection, that expose
+classes and methods for many purposes. In addition, there is an official online repository called
+pub containing packages created by the Dart team, the Flutter team or community users like
+you.
+
+If you head to [**pub.dev**](https://pub.dev)  you will find an endless number of packages for any purpose: I/O
+handling, XML serialization/de-serialization, localization, SQL/NoSQL database utilities and
+much more
